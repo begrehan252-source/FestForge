@@ -1,0 +1,6 @@
+{
+  "name": "FestForge",
+  "description": "Event Staff Booking Platform for booking event staff like waiters, bartenders, chefs, supervisors, and helpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

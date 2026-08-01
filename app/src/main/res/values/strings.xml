@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FestForge</string>
+    <string name="welcome_to_festforge">Welcome to FestForge</string>
+    <string name="tagline">Event Staff Booking Platform</string>
+</resources>
