@@ -1,4 +1,5 @@
 package com.rehan.festforge.ui.components
+import com.rehan.festforge.ui.theme.StatusGreen
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
