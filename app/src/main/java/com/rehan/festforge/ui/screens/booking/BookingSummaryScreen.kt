@@ -37,7 +37,7 @@ fun BookingSummaryScreen(
             )
         },
         bottomBar = {
-            Surface(elevation = 8.dp) {
+            Surface(shadowElevation = 8.dp) {
                 Box(modifier = Modifier.padding(16.dp)) {
                     FestForgeButton(
                         text = "Confirm & Request Staff",

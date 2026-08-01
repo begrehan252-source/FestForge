@@ -44,7 +44,7 @@ fun BookingScreen(
             )
         },
         bottomBar = {
-            Surface(elevation = 8.dp) {
+            Surface(shadowElevation = 8.dp) {
                 Box(modifier = Modifier.padding(16.dp)) {
                     FestForgeButton(
                         text = "Review Booking Summary",
