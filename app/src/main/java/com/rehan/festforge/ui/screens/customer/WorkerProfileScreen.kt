@@ -50,7 +50,7 @@ fun WorkerProfileScreen(
         bottomBar = {
             if (worker != null) {
                 Surface(
-                    elevation = 8.dp,
+                    shadowElevation = 8.dp,
                     color = MaterialTheme.colorScheme.surface
                 ) {
                     Row(
