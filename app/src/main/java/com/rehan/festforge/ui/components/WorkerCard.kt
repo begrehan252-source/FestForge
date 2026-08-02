@@ -84,7 +84,7 @@ fun WorkerCard(
                     )
                     if (worker.isAadhaarVerified) {
                         Spacer(modifier = Modifier.width(6.dp))
-                        StatusChip(status = "Aadhaar ✓")
+                        Text(text = "Aadhaar ✓", color = StatusGreen, fontSize = 11.sp, fontWeight = FontWeight.Bold)
                     }
                 }
 
